@@ -13,6 +13,6 @@ Gunakan perintah berikut di terminal/Termux:
 pkg install git
 pkg install python3
 git clone https://github.com/hollymollygoodme/mydzzytracking.git
-cd track
+cd mydzzytracking
 pip3 install -r requirements.txt
 python3 track.py
